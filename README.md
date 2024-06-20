@@ -41,4 +41,6 @@ KOREA BLOG: https://blog.naver.com/dlgidgkr/223202161025
 
 BUILD LINK: https://drive.google.com/drive/folders/19ZHSWgSx7S6bmpdWJzxZVV48OZN-XPA7?usp=drive_link
 
+Play Video: https://youtu.be/8i-PK-3VjhQ
+
 ![3](https://github.com/FineAp/OrderFromKiosk/assets/143973266/811b2d10-a96f-4b00-87f0-21e357db9c6c)
